@@ -51,3 +51,39 @@ Adding link
 
 [Header](#Headers "go to headers")
 
+
+
+Ordered and unordered list
+============================
+
+* first phase
+  * secondphase
+    * third phase
+      * forth phase
+      
+- first phase
+  - secnd phase
+    - third phase
+      - fourth phase
+      
+1. first phase
+    1. secnd phase
+        1. third phase
+            1. fourth phase
+
+
+Checkboxes
+=============
+
+- [x] male
+- [ ] female
+
+
+> blockqoute
+>> nested blockqoute
+
+
+
+
+
+
