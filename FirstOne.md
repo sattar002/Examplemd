@@ -115,8 +115,7 @@ Add images
 <img src="https://images.unsplash.com/photo-1533616688419-b7a585564566?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" width=350 height=550 align-/>
 
 
-
-
+![picture1](beach_aerial_view_coast_160989_1280x720.jpg) 
 
 
 
